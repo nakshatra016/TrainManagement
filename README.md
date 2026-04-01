@@ -48,3 +48,14 @@ This project focuses on the design and implementation of a Train Consist Managem
 - Removes bogies from the beginning and end
 
 - Displays the updated train consist
+
+## Use Case 5: Preserve Insertion Order of Bogies
+
+- Uses LinkedHashSet to store bogies
+
+- Maintains insertion order of bogies
+
+- Prevents duplicate entries automatically
+
+- Displays the final train formation
+
