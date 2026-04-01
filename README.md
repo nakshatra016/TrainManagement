@@ -27,3 +27,13 @@ This project focuses on the design and implementation of a Train Consist Managem
 
 - Displays the final passenger train consist
 
+## Use Case 3: Track Unique Bogie IDs
+
+- Uses HashSet to store bogie IDs
+
+- Ensures only unique bogie identifiers are stored
+
+- Duplicate bogie IDs are automatically ignored
+
+- Displays the final set of unique bogie IDs
+
