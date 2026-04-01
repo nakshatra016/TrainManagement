@@ -15,3 +15,15 @@ This project focuses on the design and implementation of a Train Consist Managem
 
 - Indicates that the system is ready for operations
 
+## Use Case 2: Add Passenger Bogies to Train
+
+- Demonstrates management of passenger bogies using ArrayList
+
+- Adds new bogies to the train
+
+- Removes an existing bogie
+
+- Checks if a specific bogie exists
+
+- Displays the final passenger train consist
+
