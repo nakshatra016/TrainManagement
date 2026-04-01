@@ -37,3 +37,14 @@ This project focuses on the design and implementation of a Train Consist Managem
 
 - Displays the final set of unique bogie IDs
 
+## Use Case 4: Maintain Ordered Bogie Consist
+
+- Uses LinkedList to maintain ordered bogies
+
+- Adds bogies in sequence
+
+- Inserts a bogie at a specific position
+
+- Removes bogies from the beginning and end
+
+- Displays the updated train consist
